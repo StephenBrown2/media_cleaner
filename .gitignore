@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Secrets
+media_cleaner_config.py
+
+# Debug
+media_cleaner.debug

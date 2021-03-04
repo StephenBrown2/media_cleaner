@@ -25,7 +25,7 @@ filename: media_cleaner_config.py
 
 
 # Usage
-Make media_cleaner.py executable and run ./media_cleaner.py.  If no conifg file is found it will prompt you to create one.  Once done you can run the script again to view files that will be deleted
+Make media_cleaner.py executable and run ./media_cleaner.py.  If no config file is found it will prompt you to create one.  Once done you can run the script again to view files that will be deleted
 
 # Requirements
 * python3
